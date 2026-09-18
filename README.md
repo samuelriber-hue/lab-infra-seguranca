@@ -3,7 +3,7 @@
 ##  Sobre o Projeto
 Este projeto consiste na criação, configuração e proteção de um servidor Linux do zero, fundamentado em boas práticas de cibersegurança, isolamento de rede e administração remota. O ambiente foi desenhado para atuar como a base de um laboratório corporativo simulado, focado em testes defensivos e arquitetura de redes.
 
-##  Tecnologias Utilizadas
+##  Ferramentas Utilizadas
 - **Sistema Operacional:** Ubuntu Server 24.04 LTS
 - **Virtualização:** Oracle VirtualBox 7.2
 - **Configuração de Rede:** Netplan (YAML)
