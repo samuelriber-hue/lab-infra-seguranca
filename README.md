@@ -1,15 +1,15 @@
-# 🛡️ Laboratório de Infraestrutura Segura e Hardening de Redes
+#  Laboratório de Infraestrutura Segura e Hardening de Redes
 
-## 📝 Sobre o Projeto
+##  Sobre o Projeto
 Este projeto consiste na criação, configuração e proteção de um servidor Linux do zero, fundamentado em boas práticas de cibersegurança, isolamento de rede e administração remota. O ambiente foi desenhado para atuar como a base de um laboratório corporativo simulado, focado em testes defensivos e arquitetura de redes.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Sistema Operacional:** Ubuntu Server 24.04 LTS
 - **Virtualização:** Oracle VirtualBox 7.2
 - **Configuração de Rede:** Netplan (YAML)
 - **Segurança e Acesso:** UFW (Uncomplicated Firewall), OpenSSH
 
-## 🏗️ Arquitetura e Implementações Técnicas
+##  Arquitetura e Implementações Técnicas
 1. **Administração Remota Criptografada (SSH):** 
    - Estabelecimento de acesso via linha de comando do *host* para a máquina virtual utilizando *port forwarding* (direcionamento de portas), simulando o acesso a um servidor em *datacenter*.
 2. **Segmentação de Rede Dupla:**
